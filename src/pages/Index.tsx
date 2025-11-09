@@ -105,7 +105,7 @@ const Index = () => {
                 <Icon name="Zap" className="text-white" size={24} />
               </div>
               <span className="font-heading font-bold text-2xl bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                РентаТул
+                Инструменты Мелеуз
               </span>
             </div>
             <div className="hidden md:flex items-center gap-6">
@@ -601,7 +601,7 @@ const Index = () => {
                 <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary via-secondary to-accent flex items-center justify-center">
                   <Icon name="Zap" className="text-white" size={24} />
                 </div>
-                <span className="font-heading font-bold text-2xl">РентаТул</span>
+                <span className="font-heading font-bold text-2xl">Инструменты Мелеуз</span>
               </div>
               <p className="text-slate-300">
                 Профессиональная аренда электроинструмента. От 3 часов до 3 суток.
@@ -636,7 +636,7 @@ const Index = () => {
           </div>
           <Separator className="bg-slate-700 mb-8" />
           <div className="text-center text-slate-400">
-            <p>© 2024 РентаТул. Все права защищены.</p>
+            <p>© 2024 Инструменты Мелеуз. Все права защищены.</p>
           </div>
         </div>
       </footer>
