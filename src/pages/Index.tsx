@@ -238,7 +238,7 @@ const Index = () => {
           </div>
 
           <div className="mb-8 max-w-md mx-auto">
-            <Label className="text-base font-medium mb-3 block">Срок аренды : 72 часа</Label>
+            <Label className="text-base font-medium mb-3 block"></Label>
             <div className="flex gap-2">
               <Button 
                 variant="outline" 
