@@ -517,7 +517,7 @@ const Index = () => {
                     </div>
                     <div>
                       <CardTitle className="font-heading text-lg">Телефон</CardTitle>
-                      <p className="text-muted-foreground">+7 (999) 123-45-67</p>
+                      <p className="text-muted-foreground">+7 (917) 412-65-20</p>
                     </div>
                   </div>
                 </CardHeader>
@@ -577,7 +577,7 @@ const Index = () => {
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="phone">Телефон</Label>
-                  <Input id="phone" type="tel" placeholder="+7 (999) 123-45-67" />
+                  <Input id="phone" type="tel" placeholder="+7 (917) 412-65-20" />
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="message">Сообщение</Label>
@@ -621,7 +621,7 @@ const Index = () => {
               <ul className="space-y-2 text-slate-300">
                 <li className="flex items-center gap-2">
                   <Icon name="Phone" size={16} />
-                  +7 (999) 123-45-67
+                  +7 (917) 412-65-20
                 </li>
                 <li className="flex items-center gap-2">
                   <Icon name="Mail" size={16} />
