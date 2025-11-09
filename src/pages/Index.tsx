@@ -25,7 +25,7 @@ const tools: Tool[] = [
     name: 'Дрель ударная',
     category: 'Сверление',
     pricePerHour: 150,
-    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/14abe036-f755-444d-9656-47d11379a4f9.jpg',
+    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/12f55dcb-16c4-4f68-be84-d43c73450e33.jpg',
     power: '850 Вт',
     features: ['Ударный режим', 'Реверс', 'Подсветка']
   },
@@ -34,7 +34,7 @@ const tools: Tool[] = [
     name: 'Болгарка 125мм',
     category: 'Резка',
     pricePerHour: 180,
-    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/758323ac-f753-4016-8660-9ef699005d1c.jpg',
+    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/94d9a4a5-66d5-42a2-9b5a-f0358de73c12.jpg',
     power: '1200 Вт',
     features: ['Плавный пуск', 'Защита от заклинивания', 'Регулировка оборотов']
   },
@@ -43,7 +43,7 @@ const tools: Tool[] = [
     name: 'Лобзик электрический',
     category: 'Распил',
     pricePerHour: 140,
-    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/6baf0589-1f2e-4e07-9560-233351b6e3ca.jpg',
+    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/b5c54321-3935-4860-a119-f7a70ac1788c.jpg',
     power: '650 Вт',
     features: ['Маятниковый ход', 'Подсветка', 'Быстрозажимное крепление']
   },
@@ -52,7 +52,7 @@ const tools: Tool[] = [
     name: 'Перфоратор SDS-plus',
     category: 'Сверление',
     pricePerHour: 200,
-    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/14abe036-f755-444d-9656-47d11379a4f9.jpg',
+    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/ea27fdeb-f7dc-49ed-8853-2b6b6562dc9e.jpg',
     power: '950 Вт',
     features: ['3 режима работы', 'Антивибрация', 'Предохранительная муфта']
   },
@@ -61,7 +61,7 @@ const tools: Tool[] = [
     name: 'Болгарка 230мм',
     category: 'Резка',
     pricePerHour: 250,
-    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/758323ac-f753-4016-8660-9ef699005d1c.jpg',
+    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/9a797031-e3bb-4340-aab9-3f83f66d3d82.jpg',
     power: '2400 Вт',
     features: ['Плавный пуск', 'Система защиты', 'Антивибрация']
   },
@@ -70,7 +70,7 @@ const tools: Tool[] = [
     name: 'Циркулярная пила',
     category: 'Распил',
     pricePerHour: 190,
-    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/6baf0589-1f2e-4e07-9560-233351b6e3ca.jpg',
+    image: 'https://cdn.poehali.dev/projects/2204a4c1-27a4-4326-8748-95fd9a1f6272/files/2ed3e314-d8a0-49cd-a3d0-8c810b6cbbcb.jpg',
     power: '1800 Вт',
     features: ['Регулировка глубины', 'Направляющая', 'Пылеотвод']
   }
